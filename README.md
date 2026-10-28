@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Yuvraj 👋
+I'm learning full‑stack web development and sharing my projects here.
+
+## Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Database: MongoDB, MySQL
 
 <!--
 **yuvrajnandwal/yuvrajnandwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
