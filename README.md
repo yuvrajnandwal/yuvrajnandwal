@@ -1,4 +1,4 @@
-# Hi, I'm Yuvraj 👋
+# Hi, I'm Yuvraj Nandwal👋
 I'm learning full‑stack web development and sharing my projects here.
 
 ## Tech Stack
